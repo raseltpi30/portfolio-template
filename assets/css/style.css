@@ -127,7 +127,8 @@ img{
  /********* 1. Heder Area *****/
 /*****************************/
 .header-area{
-  background: url('https://preview.colorlib.com/theme/knuford/images/bg_1.jpg') no-repeat scroll top center / cover;
+  background-image: '../assets/images/header.jpg';
+  background: url('../images/header3.jpg') no-repeat scroll top center / cover;
   background-attachment: fixed;
 } 
 .header-top{

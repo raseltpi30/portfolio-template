@@ -42,7 +42,7 @@ $(document).ready(function(){
 
 
         var typed5 = new Typed('.change', {
-            strings: ['Love To Design', 'Love To Develop'],
+            strings: ['Love To Design','Also Love To Develop'],
             typeSpeed: 100,
             backSpeed: 100,
             cursorChar: "",
